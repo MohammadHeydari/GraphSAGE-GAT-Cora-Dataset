@@ -27,7 +27,7 @@ For PyTorch Geometric (PyG):
 
 Execute the Jupyter notebooks:
 
-jupyter notebook
+```jupyter notebook```
 
 Open either PyTorch_GAT_GraphSAGE.ipynb or TensorFlow_GAT_GraphSAGE.ipynb and run the cells.
 
