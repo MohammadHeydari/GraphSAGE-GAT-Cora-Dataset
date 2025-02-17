@@ -45,14 +45,14 @@ GraphSAGE generates embeddings by sampling a fixed number of neighbors rather th
 
 Both notebooks use the Cora dataset, a widely used benchmark for node classification:
 
-2708 nodes (papers)
+- 2708 nodes (papers)
 
-5429 edges (citation relationships)
+- 5429 edges (citation relationships)
 
-7 classes (research topics)
+- 7 classes (research topics)
 
 ## References
 
-Velickovic et al., "Graph Attention Networks", ICLR 2018 (Paper)
+- Velickovic et al., "Graph Attention Networks", ICLR 2018 (Paper)
 
-Hamilton et al., "Inductive Representation Learning on Large Graphs" (Paper)
+- Hamilton et al., "Inductive Representation Learning on Large Graphs" (Paper)
