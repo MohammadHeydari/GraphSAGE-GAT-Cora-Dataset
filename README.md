@@ -4,9 +4,9 @@ Graph Neural Networks (GNNs) for Node Classification using Graph Attention Netwo
 This repository contains implementations of Graph Attention Networks (GAT) and GraphSAGE using both PyTorch Geometric and TensorFlow GNN frameworks. These models are used for node classification tasks on graph-structured data.
 
 ## Files
--PyTorch_GAT_GraphSAGE.ipynb → Implementation of GAT and GraphSAGE using PyTorch Geometric (PyG)
+- PyTorch_GAT_GraphSAGE.ipynb → Implementation of GAT and GraphSAGE using PyTorch Geometric (PyG)
 
--TensorFlow_GAT_GraphSAGE.ipynb → Implementation of GAT and GraphSAGE using TensorFlow GNN.
+- TensorFlow_GAT_GraphSAGE.ipynb → Implementation of GAT and GraphSAGE using TensorFlow GNN.
 
 ## Getting Started
 Install Dependencies
