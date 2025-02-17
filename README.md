@@ -53,6 +53,6 @@ Both notebooks use the Cora dataset, a widely used benchmark for node classifica
 
 ## References
 
-- Velickovic et al., "Graph Attention Networks", ICLR 2018 (Paper)
+- Velickovic et al., "Graph Attention Networks", ICLR 2018 ([Paper](https://arxiv.org/abs/1710.10903))
 
-- Hamilton et al., "Inductive Representation Learning on Large Graphs" (Paper)
+- Hamilton et al., "Inductive Representation Learning on Large Graphs" ([Paper](https://arxiv.org/abs/1710.10903))
