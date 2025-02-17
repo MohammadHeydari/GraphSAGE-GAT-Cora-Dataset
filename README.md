@@ -16,7 +16,6 @@ Before running the notebooks, install the required libraries:
 For PyTorch Geometric (PyG):
 
 ```pip install torch torchvision torchaudio torch-geometric```
-
 ```pip install torch-scatter torch-sparse torch-cluster torch-spline-conv -f https://data.pyg.org/whl/torch-2.6.0+cpu.html
 ```
 
