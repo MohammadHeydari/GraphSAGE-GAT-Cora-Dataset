@@ -21,7 +21,7 @@ For PyTorch Geometric (PyG):
 
 ### For TensorFlow GNN:
 
-pip install tensorflow tensorflow_gnn
+```pip install tensorflow tensorflow_gnn```
 
 ## Run the Notebooks
 
