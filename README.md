@@ -1,7 +1,6 @@
 # GraphSAGE-GAT-Cora-Dataset
 Graph Neural Networks (GNNs) for Node Classification using Graph Attention Networks (GAT) and GraphSAGE, implemented in PyTorch and TensorFlow
 
-Graph Neural Networks (GNNs): GAT & GraphSAGE
 This repository contains implementations of Graph Attention Networks (GAT) and GraphSAGE using both PyTorch Geometric and TensorFlow GNN frameworks. These models are used for node classification tasks on graph-structured data.
 
 ## Files
